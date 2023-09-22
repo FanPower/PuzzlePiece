@@ -1,0 +1,27 @@
+PODS:
+  - Kingfisher (6.3.1)
+  - PuzzlePiece (0.1.0):
+    - Kingfisher
+    - SnapKit
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - PuzzlePiece (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - SnapKit
+
+EXTERNAL SOURCES:
+  PuzzlePiece:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Kingfisher: 016c8b653a35add51dd34a3aba36b580041acc74
+  PuzzlePiece: 902502b438ecb40281f4cb4bdce901efe3990df5
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: 8574c748e64efa92e6234617336d6dffed9599f7
+
+COCOAPODS: 1.10.0

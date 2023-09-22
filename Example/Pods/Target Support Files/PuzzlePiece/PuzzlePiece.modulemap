@@ -1,0 +1,6 @@
+framework module PuzzlePiece {
+  umbrella header "PuzzlePiece-umbrella.h"
+
+  export *
+  module * { export * }
+}
